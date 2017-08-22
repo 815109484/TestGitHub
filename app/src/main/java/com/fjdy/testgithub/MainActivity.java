@@ -12,8 +12,7 @@ public class MainActivity extends AppCompatActivity {
         int a=0;
         System.out.print("aaaaa");
         System.out.print("aaaaa");
+        int m=0;
 
-
-        //222
     }
 }
